@@ -1,0 +1,1 @@
+# qryptal.github.io
