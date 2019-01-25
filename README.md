@@ -10,6 +10,8 @@ Qryptal helps to make documents secure, tamper proof and easily verifiable by cr
 
 This helps to maintain the security and privacy for all concerned - the document holder, the verifier and the generator of the information.
 
+Qryptal multi-stage pipeline compression and PKI digital signing framework helps generate a small size QR code image for given amount of information while maintaining high levels of data integrity. 
+
 ### Support or Contact
 
 Having trouble or need more information? [contact us](https://www.qryptal.com/contact) and we’ll help you sort it out.
