@@ -14,4 +14,4 @@ Qryptal multi-stage pipeline compression and PKI digital signing framework helps
 
 ### Support or Contact
 
-Having trouble or need more information? [contact us](https://www.qryptal.com/contact) and we’ll help you sort it out.
+Having trouble or need more information? [contact us](https://www.qryptal.com/contact) and we’ll get you sorted!
